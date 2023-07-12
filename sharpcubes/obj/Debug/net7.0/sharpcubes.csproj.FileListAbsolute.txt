@@ -1,0 +1,15 @@
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\bin\Debug\net7.0\sharpcubes.exe
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\bin\Debug\net7.0\sharpcubes.deps.json
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\bin\Debug\net7.0\sharpcubes.runtimeconfig.json
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\bin\Debug\net7.0\sharpcubes.dll
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\bin\Debug\net7.0\sharpcubes.pdb
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.csproj.AssemblyReference.cache
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.AssemblyInfoInputs.cache
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.AssemblyInfo.cs
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.csproj.CoreCompileInputs.cache
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.dll
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\refint\sharpcubes.dll
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.pdb
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\sharpcubes.genruntimeconfig.cache
+C:\Users\rhu\source\Repos\personal\opencubes\sharpcubes\obj\Debug\net7.0\ref\sharpcubes.dll
